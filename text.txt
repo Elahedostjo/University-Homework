@@ -1,0 +1,7 @@
+int a,b,SUM,AVG;
+a=Convert.ToInt32(Console.ReaLin());
+b=Convert.ToInt32(Console.ReaLin());
+SUM = a+b;
+AVG = SUM / 2;
+Console. Write(AVG);
+Console.ReadKey();
